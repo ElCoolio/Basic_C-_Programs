@@ -1,0 +1,7 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathOperands\MathOperands\bin\Debug\MathOperands.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathOperands\MathOperands\bin\Debug\MathOperands.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathOperands\MathOperands\bin\Debug\MathOperands.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathOperands\MathOperands\obj\Debug\MathOperands.csproj.AssemblyReference.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathOperands\MathOperands\obj\Debug\MathOperands.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathOperands\MathOperands\obj\Debug\MathOperands.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathOperands\MathOperands\obj\Debug\MathOperands.pdb
