@@ -1,0 +1,7 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Insurance Questionnaire\Insurance Questionnaire\bin\Debug\Insurance Questionnaire.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Insurance Questionnaire\Insurance Questionnaire\bin\Debug\Insurance Questionnaire.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Insurance Questionnaire\Insurance Questionnaire\bin\Debug\Insurance Questionnaire.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Insurance Questionnaire\Insurance Questionnaire\obj\Debug\Insurance Questionnaire.csproj.AssemblyReference.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Insurance Questionnaire\Insurance Questionnaire\obj\Debug\Insurance Questionnaire.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Insurance Questionnaire\Insurance Questionnaire\obj\Debug\Insurance Questionnaire.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Insurance Questionnaire\Insurance Questionnaire\obj\Debug\Insurance Questionnaire.pdb
