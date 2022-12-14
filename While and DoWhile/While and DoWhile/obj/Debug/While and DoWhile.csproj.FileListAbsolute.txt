@@ -1,0 +1,7 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\While and DoWhile\While and DoWhile\bin\Debug\While and DoWhile.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\While and DoWhile\While and DoWhile\bin\Debug\While and DoWhile.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\While and DoWhile\While and DoWhile\bin\Debug\While and DoWhile.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\While and DoWhile\While and DoWhile\obj\Debug\While and DoWhile.csproj.AssemblyReference.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\While and DoWhile\While and DoWhile\obj\Debug\While and DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\While and DoWhile\While and DoWhile\obj\Debug\While and DoWhile.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\While and DoWhile\While and DoWhile\obj\Debug\While and DoWhile.pdb
