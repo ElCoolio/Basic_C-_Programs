@@ -1,0 +1,7 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\ShippingQuota\ShippingQuota\bin\Debug\ShippingQuota.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\ShippingQuota\ShippingQuota\bin\Debug\ShippingQuota.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\ShippingQuota\ShippingQuota\bin\Debug\ShippingQuota.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\ShippingQuota\ShippingQuota\obj\Debug\ShippingQuota.csproj.AssemblyReference.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\ShippingQuota\ShippingQuota\obj\Debug\ShippingQuota.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\ShippingQuota\ShippingQuota\obj\Debug\ShippingQuota.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\ShippingQuota\ShippingQuota\obj\Debug\ShippingQuota.pdb
