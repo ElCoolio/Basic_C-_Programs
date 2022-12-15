@@ -34,17 +34,30 @@ class Program
             int height = Convert.ToInt16(heightString);
             int width = Convert.ToInt16(widthString);
             int length = Convert.ToInt16(lengthString);
+            int total = height + width + length;
 
-            // computes the quote using the dimensions
+            // branching statement if the package is too large.
+            if (total > 50)
+            {
+                Console.WriteLine("Package too big to be shipped via Package Express.");
 
-            int packageSize = height * width * length;
-            int packageSizeAndWeight = packageSize * weight;
-            decimal quote = packageSizeAndWeight / 100;
+            }
+            else
+            {
+                // computes the quote using the dimensions
+                int packageSize = height * width * length;
+                int packageSizeAndWeight = packageSize * weight;
+                decimal quote = packageSizeAndWeight / 100;
 
-            //Displays the quote and ends the program
-            Console.WriteLine("Your estimated total for shipping this package is: " + quote.ToString("C"));
-            Console.WriteLine("Thank you");
+                //Displays the quote and ends the program
+                Console.WriteLine("Your estimated total for shipping this package is: " + quote.ToString("C"));
+                Console.WriteLine("Thank you");
+                
+            }
+
+            
             Console.ReadLine();
+
         }
 
     }
