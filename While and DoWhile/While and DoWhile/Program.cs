@@ -47,6 +47,7 @@ class Program
                 case (12):
                     Console.WriteLine("You Guessed Correctly!");
                     Console.ReadLine();
+                    isGuessed = true;
                     break;
                 case (13):
                     Console.WriteLine("You are really close");
