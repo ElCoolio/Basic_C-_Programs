@@ -1,0 +1,7 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathMethods\MathMethods\bin\Debug\MathMethods.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathMethods\MathMethods\bin\Debug\MathMethods.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathMethods\MathMethods\bin\Debug\MathMethods.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathMethods\MathMethods\obj\Debug\MathMethods.csproj.AssemblyReference.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathMethods\MathMethods\obj\Debug\MathMethods.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathMethods\MathMethods\obj\Debug\MathMethods.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\MathMethods\MathMethods\obj\Debug\MathMethods.pdb
