@@ -1,0 +1,7 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OptionalVars\OptionalVars\obj\Debug\OptionalVars.csproj.AssemblyReference.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OptionalVars\OptionalVars\obj\Debug\OptionalVars.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OptionalVars\OptionalVars\bin\Debug\OptionalVars.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OptionalVars\OptionalVars\bin\Debug\OptionalVars.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OptionalVars\OptionalVars\bin\Debug\OptionalVars.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OptionalVars\OptionalVars\obj\Debug\OptionalVars.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OptionalVars\OptionalVars\obj\Debug\OptionalVars.pdb
