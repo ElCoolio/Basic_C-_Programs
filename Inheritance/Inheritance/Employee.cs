@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Inheritance
 {
-    class Employee : Person
+    public class Employee : Person, iQuittable
     {
         public int Id;
 
@@ -16,6 +16,14 @@ namespace Inheritance
             Console.WriteLine("Name: " + FirstName + " " + LastName);
             Console.WriteLine("ID: " + Id.ToString());
         }
+
+        //implements the interface class
+        public void Quit(Employee employee)
+        {
+            Console.WriteLine(FirstName + " " + LastName + " has quit");
+        }
+
+        
 
     }
 }

@@ -17,6 +17,9 @@ namespace Inheritance
             // Uses the superclass method that it inherited from the Person class
             test.SayName();
 
+            // uses the interface class
+            test.Quit(test);
+
             Console.ReadLine();
 
 
