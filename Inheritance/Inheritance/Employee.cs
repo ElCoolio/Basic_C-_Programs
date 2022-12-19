@@ -8,7 +8,14 @@ namespace Inheritance
 {
     class Employee : Person
     {
-        int Id;
+        public int Id;
+
+        // overrides the SayName class in the parent class
+        override public void SayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
+            Console.WriteLine("ID: " + Id.ToString());
+        }
 
     }
 }
