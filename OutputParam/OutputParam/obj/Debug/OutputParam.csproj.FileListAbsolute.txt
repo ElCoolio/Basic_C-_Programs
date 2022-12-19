@@ -1,0 +1,7 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OutputParam\OutputParam\bin\Debug\OutputParam.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OutputParam\OutputParam\bin\Debug\OutputParam.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OutputParam\OutputParam\bin\Debug\OutputParam.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OutputParam\OutputParam\obj\Debug\OutputParam.csproj.AssemblyReference.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OutputParam\OutputParam\obj\Debug\OutputParam.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OutputParam\OutputParam\obj\Debug\OutputParam.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\OutputParam\OutputParam\obj\Debug\OutputParam.pdb
