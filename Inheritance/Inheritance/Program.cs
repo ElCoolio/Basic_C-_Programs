@@ -12,7 +12,10 @@ namespace Inheritance
         {
             // Creates the employee object, and give the values that it inherited from the Person Class
             Employee test = new Employee() { FirstName = "Sample", LastName = "Student", Id = 1 };
-            
+
+            // Creates an identical object to test the operator overides.
+            Employee test3 = new Employee() { FirstName = "Sample", LastName = "Student", Id = 1 };
+
             // This uses polymorphism to create an iQuittable object
             iQuittable test2 = new Employee() { FirstName = "Sample", LastName = "Employee", Id = 2 };
 
@@ -27,7 +30,13 @@ namespace Inheritance
 
             test2.Quit((Employee)test2);
 
+            //Comparison opertator overrides
+            Console.WriteLine((Employee)test2 == test);
+            Console.WriteLine((Employee)test == test3);
+
             Console.ReadLine();
+
+
 
 
 
