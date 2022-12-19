@@ -9,7 +9,7 @@ namespace Inheritance
     interface iQuittable
     {
         // makes the interface class, but doesn't implement it.
-        void Quit(Employee employee);
+        //void Quit(Employee employee);
 
     }
 }
