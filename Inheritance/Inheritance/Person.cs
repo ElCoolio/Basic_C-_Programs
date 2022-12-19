@@ -13,10 +13,7 @@ namespace Inheritance
         public string LastName;
 
         // makes a class that is set up to be overwritten by the child classes.
-        virtual public void  SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
+        public abstract void SayName();
 
     }
 }
