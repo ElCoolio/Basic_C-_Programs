@@ -1,0 +1,6 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Labda\Labda\bin\Debug\Labda.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Labda\Labda\bin\Debug\Labda.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Labda\Labda\bin\Debug\Labda.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Labda\Labda\obj\Debug\Labda.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Labda\Labda\obj\Debug\Labda.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\Labda\Labda\obj\Debug\Labda.pdb
