@@ -24,9 +24,8 @@ namespace DateTimeExample
             //puts user input into a var
             int userInput = Convert.ToInt32(Console.ReadLine());
 
-            //takes user input and adds that number to the date times to show when 
+            //takes user input and adds that number to the date times to show what time it will be that many hours later
             DateTime later = now.AddHours(userInput);
-
             Console.WriteLine("In {0} hours it will be {1}", userInput, later);
 
 
