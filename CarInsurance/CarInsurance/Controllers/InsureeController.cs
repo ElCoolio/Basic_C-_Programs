@@ -90,7 +90,17 @@ namespace CarInsurance.Controllers
             }
 
             //speeding ticket logic
-            decimal speedingQuote = insuree.SpeedingTicket * 10m;
+
+            decimal speedingQuote;
+            if(insuree.SpeedingTicket < 0)
+            {
+                speedingQuote = 0;
+                insuree.SpeedingTicket = 0;
+            }
+            else
+            {
+                speedingQuote = insuree.SpeedingTicket * 10m;
+            }
             quote += speedingQuote;
 
             //DUI logic
