@@ -1,0 +1,12 @@
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\obj\Debug\EntityFramework.csproj.CopyComplete
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\sbrinkman\Desktop\Basic_C#_Programs\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb
